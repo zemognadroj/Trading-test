@@ -1,3 +1,6 @@
-# - url: https://www.example.com/
-#   output: shot.png
-#   height: 800
+- url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS-1dRGm7ZNTph5MpHCLhkE_CakBI0PiJct179tGSg918j4af89qY0vKdPjoj5qmEJ8Z-sYwFTr9XyC/pubhtml?gid=247024055&single=true
+  selector: 'div#sheets-viewport'
+  output: shot.png
+  width: 430
+  height: 509
+  quality: 100
